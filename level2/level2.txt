@@ -1,0 +1,33 @@
+What is the DOM?
+
+It's the document object model, withc is a representation of the webpage. In many casses it will look like your html. There are ofcourse exeptions for this rule as well, it can be manipulated. 
+
+List three methods to manipulate the DOM.
+
+1. addEventListner()
+2. createElement()
+3. setAttribute()
+
+What is an asynchronous call?
+
+A multitasking call that can do other stuff while waiting.
+
+Briefly explain what the sources tab in Chromes Developers Tools does.
+
+Lets you view files, edit css and js and debug js. 
+
+What is a JavaScript promise?
+
+Same as in real life. You make a promise and then there are two options, you hold your promise or you break it. Meaning your promise is executed or you receive a rejection.
+
+What is an API?
+
+It stands for application programing interface. Witch is used to collect data from a source that is located some where else, in to your code. API's makes it easier to share information. JSON is an example of this.  
+
+What is a JavaScript Event?
+
+It means that something will happen. If you hover over an object, scroll or click on something. We can also track events to see how people are using your program/site
+
+What is event bubbling?
+
+Definition of witch order an event will fire off first. Bubbling would mean it would start inside and then out. 
