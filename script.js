@@ -1,5 +1,0 @@
-function myAlert() {
-
-alert("Success!");
-
-}
